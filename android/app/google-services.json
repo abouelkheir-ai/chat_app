@@ -1,0 +1,83 @@
+{
+  "project_info": {
+    "project_number": "764072236526",
+    "firebase_url": "https://android-e7f12-default-rtdb.firebaseio.com",
+    "project_id": "android-e7f12",
+    "storage_bucket": "android-e7f12.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764072236526:android:c93aa9f604b3ec0c56eaff",
+        "android_client_info": {
+          "package_name": "com.example.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764072236526-a783d9l2tosjl9mnt6b4m8r561c12o92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgczSyhcXSQpDmtLjut8xiZpuOqT0CQA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764072236526-a783d9l2tosjl9mnt6b4m8r561c12o92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764072236526-859si1mgk7p1tdaa0pmmdh5ruqsbfcnb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.TestingNote"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:764072236526:android:9a16d7d44bdfaa4556eaff",
+        "android_client_info": {
+          "package_name": "com.example.mytestingapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "764072236526-a783d9l2tosjl9mnt6b4m8r561c12o92.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBgczSyhcXSQpDmtLjut8xiZpuOqT0CQA4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "764072236526-a783d9l2tosjl9mnt6b4m8r561c12o92.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "764072236526-859si1mgk7p1tdaa0pmmdh5ruqsbfcnb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.TestingNote"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
